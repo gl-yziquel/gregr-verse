@@ -1,1 +1,0 @@
-STLC exercises
