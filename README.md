@@ -1,5 +1,9 @@
 # miniVerse (and microVerse)
 
+Note: this code has been extracted from the [gregr/experiments GitHub
+repository](https://github.com/gregr/experiments) to make it into one single
+self-contained repository.
+
 This is an implementation of VC based on the paper: [The Verse Calculus: a Core Calculus for Functional Logic Programming](https://simon.peytonjones.org/assets/pdfs/verse-conf.pdf)
 
 This implementation uses a naive sequence-concurrent evaluation strategy
